@@ -2,7 +2,13 @@
 
 **CPU uniciclo com ISA própria, datapath, matriz de controle e simulação funcional.**
 
-**Autores:** Ezequias Ferreira e Marcelo Barbosa  
+**Autores e colaboradores acadêmicos:**
+
+| Integrante | GitHub | Vinculação |
+|---|---|---|
+| **Ezequias Ferreira** | [@ezequiasferreira](https://github.com/ezequiasferreira) | Coautor |
+| **Marcelo Barbosa** | [@marcelobns](https://github.com/marcelobns) | Coautor |
+
 **Disciplina:** Arquitetura e Organização de Computadores — PPCA/UFRR  
 **Professor:** Herbert Oliveira Rocha · **Data:** 03/11/2026
 
