@@ -1,0 +1,7 @@
+Sinal,ADD,LD,ST,BEQZ
+BZero,0,1,1,1
+EscReg,1,1,0,0
+LerMem,0,1,0,0
+EscMem,0,0,1,0
+MemParaReg,0,1,X,X
+DvC,0,0,0,1

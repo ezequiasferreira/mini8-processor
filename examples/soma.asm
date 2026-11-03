@@ -1,0 +1,9 @@
+; RAM[0] = 2; RAM[2] = 3
+LD R1,[R0]
+ADD R2,R1
+LD R3,[R2]
+ADD R4,R1
+ADD R4,R3
+ST R4,[R2]
+fim:
+BEQZ R0,fim

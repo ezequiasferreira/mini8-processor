@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite the Mini-8 educational processor project."
+title: "Mini-8: Processador Didático de 8 Bits"
+type: software
+authors:
+  - family-names: Ferreira
+    given-names: Ezequias
+  - family-names: Barbosa
+    given-names: Marcelo
+date-released: 2026-11-03
+version: 0.1.0
+repository-code: "https://github.com/ezequiasferreira/mini8-processor"
