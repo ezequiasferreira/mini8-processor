@@ -8,6 +8,11 @@
 
 > **Validação:** o modelo funcional Python passou nos testes previstos. O VHDL é uma implementação proposta, cuja compilação/simulação no GHDL ainda precisa ser confirmada. Este projeto não é compatível binariamente com a ISA MIPS de 32 bits.
 
+
+![Diagrama do Mini-8](assets/datapath.svg)
+
+**[Simulador visual interativo](simulator/index.html)** · **[Matriz de controle](docs/control-matrix.md)** · **[Datapath detalhado](docs/datapath.md)** · **[VHDL-2008](hdl/README.md)** · **[Testes automatizados](tests/test_mini8.py)**
+
 ## Proposta
 
 Projetar um processador didático com instruções e dados de 8 bits, explicitando as escolhas e limitações arquiteturais. A entrega está organizada em três frentes: **datapath**, **matriz de controle** e **simulação**.
